@@ -1,4 +1,4 @@
-## A New Post
+## Carol Ramsey's Week 1 Post
 
 **1. What did you do this past week?**
 I found the command line on my Mac. I haven't seen a command line in over ten years. 
