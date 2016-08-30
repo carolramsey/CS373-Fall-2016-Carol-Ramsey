@@ -18,7 +18,7 @@ I need to spend significant time in the early weeks of the class learning the to
 
 **3. What will you do next week?**
 
-I will meet with the TAs to work through remaining questions about the tools. I will connect with the folks in my group. I will try to come up with an easy way to explain why I’m a UT CS graduate taking an undergrad CS course when I’m old enough to be everyone’s Mom. Even my own Mom wants to know what's going on. 
+I will meet with the TAs to work through remaining questions about the tools. I will connect with the folks in my group. I will try to come up with an easy way to explain why I’m a UT CS graduate taking an undergrad CS course when I’m old enough to be everyone’s Mom. Even my own Mom wants to know what's going on. :)
 
 **Tip-of-the-Week:**
 
@@ -26,4 +26,4 @@ Chris Stephenson is the head of Education for Google. Her research found that co
 1. Confidence in dealing with complexity
 2. Persistence in working with difficult problems
 3. The ability to handle ambiguity
-Here is her [paper.](https://drive.google.com/a/utexas.edu/file/d/0B4DNzNN9lGwLS1drUG5vdHViOU0/view?usp=sharing).
+Here is her [paper.](https://drive.google.com/a/utexas.edu/file/d/0B4DNzNN9lGwLS1drUG5vdHViOU0/view?usp=sharing)
