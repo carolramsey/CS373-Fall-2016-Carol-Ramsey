@@ -22,8 +22,8 @@ I will meet with the TAs to work through remaining questions about the tools. I 
 
 **Tip-of-the-Week:**
 
-Chris Stephenson is the head of Education for Google. Her research found that computational thinking was influenced by dispositions as well as knowledge. Her research is in computational thinking in young folks, but my favorite grown-up developers also share these dispositions.
-•	Confidence in dealing with complexity
-•	Persistence in working with difficult problems
-•	The ability to handle ambiguity
+Chris Stephenson is the head of Education for Google. Her research found that computational thinking is influenced by dispositions as well as knowledge. Her research is morea about young folks, but my favorite grown-up developers also share these dispositions.
+1. Confidence in dealing with complexity
+2. Persistence in working with difficult problems
+3. The ability to handle ambiguity
 Here is her [paper.](https://drive.google.com/a/utexas.edu/file/d/0B4DNzNN9lGwLS1drUG5vdHViOU0/view?usp=sharing).
