@@ -5,6 +5,7 @@ title: Week 1 from Carol Ramsey
 ## Carol Ramsey's Week 1 Post
 
 **1. What did you do this past week?**
+
 I found the command line on my Mac. I haven't seen a command line in over ten years. 
 
 I built the project management and development processes for Oracle Retail that over 600 engineers used to build $40 millon+ enterprise releases of 30+ integrated products. The core of the product suite (point-of-sale, back office, supply chain, inventory, returns, etc.) was based on algorithms developed by PhD mathematicians to analyze historical patterns to predict which store was most likely to sell an individual pair of jeans (style, color and size) on a given day. The algorithms then adjusted related systems to get each pair of jeans to the right store at the right time. Even small decreases in items returned from the stores saved the retailers significant money.
@@ -21,7 +22,7 @@ I will meet with the TAs to work through remaining questions about the tools. I 
 
 **Tip-of-the-Week:**
 
-Chris Stephenson is the head of Education for Google. Her research found that computational thinking was influenced by dispositions as well as knowledge. These are true of all my favorite developers: 
+Chris Stephenson is the head of Education for Google. Her research found that computational thinking was influenced by dispositions as well as knowledge. Her research is in computational thinking in young folks, but my favorite grown-up developers also share these dispositions.
 •	Confidence in dealing with complexity
 •	Persistence in working with difficult problems
 •	The ability to handle ambiguity
