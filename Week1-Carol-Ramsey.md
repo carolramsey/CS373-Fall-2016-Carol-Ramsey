@@ -9,7 +9,7 @@ I have been busy! But I haven’t been writing code. So, this past week, I found
 
 **2. What's in your way?**
 
-Nothing is in my way. I need to spend significant time in the early weeks of the class learning the tools so I can focus on the meat of the projects going forward.  
+I need to spend significant time in the early weeks of the class learning the tools so I can focus on the meat of the projects going forward.  
 
 **3. What will you do next week?**
 
@@ -17,7 +17,7 @@ I will meet with the TAs to work through remaining questions about the tools. I 
 
 **Tip-of-the-Week:**
 
-Chris Stephenson is the head of Education for Google. Her research found that computational thinking was influenced by dispositions as well as knowledge. When I’ve interviewed developers, I have used questions related to these dispositions: 
+Chris Stephenson is the head of Education for Google. Her research found that computational thinking was influenced by dispositions as well as knowledge. These are true of all my favorite developers: 
 •	Confidence in dealing with complexity
 •	Persistence in working with difficult problems
 •	The ability to handle ambiguity
