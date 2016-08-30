@@ -10,7 +10,7 @@ I found the command line on my Mac. I haven't seen a command line in over ten ye
 
 I built the project management and development processes for Oracle Retail that over 600 engineers used to build $40 millon+ enterprise releases of 30+ integrated products. The core of the product suite was based on predictive algorithms to optimize supply chain and inventory. Even small decreases in items returned from the stores saved the retailers significant money.
 
-I have been busy! But I've been in management and not writing code. So, this past week, I found the command line. I setup the tools and accounts. I wrote my first blog post. 
+I have been busy! But for about least ten years, I've been in management and not writing code. So, this past week, I found the command line. I setup the tools and accounts. I wrote my first blog post. 
 
 **2. What's in your way?**
 
