@@ -8,9 +8,9 @@ title: Week 1 from Carol Ramsey
 
 I found the command line on my Mac. I haven't seen a command line in over ten years. 
 
-I built the project management and development processes for Oracle Retail that over 600 engineers used to build $40 millon+ enterprise releases of 30+ integrated products. The core of the product suite (point-of-sale, back office, supply chain, inventory, returns, etc.) was based on algorithms developed by PhD mathematicians to analyze historical patterns to predict which store was most likely to sell an individual pair of jeans (style, color and size) on a given day. The algorithms then adjusted related systems to get each pair of jeans to the right store at the right time. Even small decreases in items returned from the stores saved the retailers significant money.
+I built the project management and development processes for Oracle Retail that over 600 engineers used to build $40 millon+ enterprise releases of 30+ integrated products. The core of the product suite (point-of-sale, back office, supply chain, inventory, returns, etc.) was based on predictive algorithms to optimize supply chain and inventory. Even small decreases in items returned from the stores saved the retailers significant money.
 
-I have been busy! But I haven’t been writing code. So, this past week, I found the command line. I setup the tools and accounts. I wrote my first blog post. 
+I have been busy! But I've been in management and not writing code. So, this past week, I found the command line. I setup the tools and accounts. I wrote my first blog post. 
 
 **2. What's in your way?**
 
