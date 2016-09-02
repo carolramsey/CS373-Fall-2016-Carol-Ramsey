@@ -5,6 +5,7 @@ title: Week 2 from Carol Ramsey
 ## Carol Ramsey's Week 2 Post
 
 **1. What did you do this past week?**
+
 I tried out a few oraganization apps to track my assignments and ended up in Excel because all the functionality I need is priority, date and links, with filter and sort. I created a burn down for the semester because I'm a dork and I like to see visible progress. Someone should write a college-based gamified organizer so I can see fireworks when I finish a big project.
 The down side of being organized is that I better understand just how much work I have to do and I wonder if I will see my kids before Christmas. 
 
