@@ -1,16 +1,16 @@
-What did you do this past week?
+**What did you do this past week?**
 
 This past week, I learned that my expectations for the course work were incorrect, in both time and difficulty. You could say I learned a great deal in this area. :) I also learned about lazy, eager and tile caches, hard-coding vs. pre-populating values and the tradeoffs between file size, memory and speed. I was fascinated by how the simplicity of calculating a single Collatz value became an interesting problem to solve, by adding the max of a range of values and the resource constraints.
 
-What's in your way?
+**What's in your way?**
 
 My greatest obstacle is time.
 
-What will you do next week?
+**What will you do next week?**
 
 Here is my plan for improving my performance in this class: 1) Start the projects earlier. 2) Work with a tutor. 3) Find more time (no TV, spend less time on other classes, etc.).
 
-Tip of the Week
+**Tip of the Week**
 
 (This is my own tip, for something different to write. Let me know if that isn't OK.)
 
@@ -20,6 +20,6 @@ A programmer on our team wrote the client-side form validation. Javascript's fun
 
 This code make the client angry. The code was pulled and replaced with about 5 lines of code that the customer wanted. (This was a relief, really, because the QA guy hadn't figured out how to test the code in less than three days.)
 
-The client wanted this format for dates: MMDDYYYY. This required the fewest keystrokes overall, even with extra 0s for MM and DD. Call center representatives were evaluated every day, by the second. For large, consolidated banks who dealt in huge volumes, lost seconds across tens of thousands of calls cost significant money. The thought of someone typing out the date in English words or stopping to answer a question to clarify which date, made the client's eyes get real big, as if he just saw a car crash.
+The client wanted this format for dates: MMDDYYYY. This required the fewest keystrokes overall, even with extra 0s for MM and DD. Call center representatives were evaluated every day, by the second. For large, consolidated banks which dealt in huge volumes, lost seconds across tens of thousands of calls cost significant money. The thought of someone typing out the date in English words or stopping to answer a question to clarify which date, made the client's eyes get real big, as if he just saw a car crash.
 
 My tip is to know the business context for the lines of code. Whatever is going on around the project can impact which lines of code work best.
