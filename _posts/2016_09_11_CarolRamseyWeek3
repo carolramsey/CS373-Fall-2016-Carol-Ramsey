@@ -1,4 +1,6 @@
-1. What did you do this past week? This past week, I learned that my expectations for the course work were incorrect, in both time and difficulty. You could say I learned a great deal in this area. :) I also learned about lazy, eager and tile caches, hard-coding vs. pre-populating values and the tradeoffs between file size, memory and speed. I was fascinated by how the simplicity of calculating a single Collatz value became an interesting problem to solve, by adding the max of a range of values and the resource constraints.
+**1. What did you do this past week?** 
+
+This past week, I learned that my expectations for the course work were incorrect, in both time and difficulty. You could say I learned a great deal in this area. :) I also learned about lazy, eager and tile caches, hard-coding vs. pre-populating values and the tradeoffs between file size, memory and speed. I was fascinated by how the simplicity of calculating a single Collatz value became an interesting problem to solve, by adding the max of a range of values and the resource constraints.
 
 2. What's in your way? My greatest obstacle is time.
 
