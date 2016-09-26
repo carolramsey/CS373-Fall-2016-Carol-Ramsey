@@ -5,18 +5,18 @@ title: Week 5 from Carol Ramsey
 
 **What did you do this past week?**
 
-I started the Netflix project early. It's going well. I kept up with the readings, but made mistakes on the quizzes. 
+I built a time machine. I found extra time. My life is over-engineered and dense in a way that is unsustainable, but it might work for 2.5 months. In other interesting news, the beach house my parents have owned for twenty-five years just sold to The Property Brothers TV show. The house will be an example of a really crappy house that needs extreme renovation and serious design updates to be livable. Yes, the house has popcorn ceilings, carpet (in a beach house?), 42 pictures of seagulls and a huge phone shaped like a fish on the wall. But, I have so many sweet memories there, I feel protective and I don't want them to make fun of my parents' house. But they will. :)
 
 **What's in your way?**
 
-My greatest obstacle is still time. I worked with my husband to further refine our over-engineered life, looking for hidden 15-minute pockets of time. We looked at home, work, church and school, then made choices and compromises. Our next date night is scheduled for March of 2018, on a Friday, between 8 and 10. :) Then we imagined the time machine that would be the most useful. It wouldn't change time, but find extra time instead. 
+Nothing is in my way. At this point, I just need to get it done. 
 
 **What will you do next week?**
 
-I will continue to work on the Netflix project. I feel better about this project, since I understand the tools more and I started earlier. Pair programming is faster than I expected. There is an efficiency to focusing on the logic of the problem or the details of the code, one at a time. It's easier for the person not driving to see mistakes that can be fixed right away, without an extra add/commit/push/Travis cycle. I found the right partner, who also has three kids. We have the computer lab all to ourselves at 7am. 
+I will start studying for the test. I have been making mistakes on quizzes at an alarming rate. I will focus on the code examples, reviewing each for the message they convey and experimenting in the interpreter with the code.   
 
 **Tip of the Week**
 
-I just found the Coding Horror blog, even though it has been around a while: https://blog.codinghorror.com. Jeff Atwood, the co-founder of Stack Overflow and Discourse, writes about technology, being human and the interesting spaces where the two intersect. 
+(This may not make sense, except that I have a CS degree from UT in 1995 and I spent 20 years in tech, now I'm back in grad school for CS Education, to try to change the world.) A developer with five years of experience is about ten times as productive as the new guy, because experience builds the patterns and pathways in the brain that allow the developer to understand the big picture and be more efficient in his execution. I found that I can simulate this experience and get smarter faster, by learning from experienced developers around me. One of my favorite questions is, "What are the worst lines of code you have ever written?" All developers with five years of experience have a story to tell about this, if they are being honest. So, here is mine. In the mid 90s, before there were coding tools or any control whatsoever, I wrote a clever recursive method to delete existing files in a target directory. Not only was this not necessary from a requirements perspective, it led to a visit with the Vice President to explain how the new guy in QA had just deleted the R: drive. That makes two tips: 1) learn from experienced developers and 2) beware of clever code.
 
 
