@@ -5,7 +5,7 @@ title: Week 5 from Carol Ramsey
 
 **What did you do this past week?**
 
-I built a time machine. I found extra time. My life is over-engineered and dense in a way that is unsustainable, but it might work for 2.5 months. In other interesting news, the beach house my parents have owned for twenty-five years just sold to The Property Brothers TV show. The house will be an example of a really crappy house that needs extreme renovation and serious design updates to be livable. Yes, the house has popcorn ceilings, carpet (in a beach house?), 42 pictures of seagulls and a huge phone shaped like a fish on the wall. But, I have so many sweet memories there, I feel protective and I don't want them to make fun of my parents' house on TV. But they will. :(
+I built a time machine and found 15-minutes blocks of extra time. My life is now over-engineered and dense in a way that is unsustainable, but it might work for 2.5 months. In other interesting news, the beach house my parents have owned for twenty-five years just sold to The Property Brothers TV show. The house will be an example of a really crappy house that needs extreme renovation and serious design updates to be livable. Yes, the house has popcorn ceilings, carpet (in a beach house?), 42 pictures of seagulls and a huge phone shaped like a fish on the wall. But, I have so many sweet memories there, I feel protective and I don't want them to make fun of my parents' house on TV. But they will. :(
 
 **What's in your way?**
 
