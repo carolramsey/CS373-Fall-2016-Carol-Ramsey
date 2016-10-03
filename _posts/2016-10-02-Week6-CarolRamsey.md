@@ -14,7 +14,7 @@ Nothing is in my way.
 **What will you do next week?**
 
 I will continue to work through the material in these ways: 
-1) Read about info on-line, in Python documentation and on the Tutorials Point and Stack Overflow web sites.
+1) Read info on-line, in Python documentation and on the Tutorials Point and Stack Overflow web sites.
 2) Play with code samples from class in the interpreter, experimenting with variations and answering any remaining questions.
 3) Work on writing code segments with study partner.  
 4) Attend TA study sessions. 
