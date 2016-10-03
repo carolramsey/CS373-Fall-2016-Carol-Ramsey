@@ -9,7 +9,7 @@ I went through the code examples from class and wrote "the meaning of this is" f
 
 **What's in your way?**
 
-Nothing is in my way.  
+Nothing is in my way.     
 
 **What will you do next week?**
 
