@@ -23,7 +23,7 @@ I will also wonder about a real-world business application that requires using a
 
 **Tip of the Week**
 
-Even when school is making you nuts and you arne't sleeping a lot, if you are married, remember to say "hello" to your spouse when you get home. Seriously. You need to say, "hello" and if possible, ask him/her about their day. 
+Even when school is making you nuts and you aren't sleeping a lot, if you are married, remember to say "hello" to your spouse when you get home. Seriously. You need to say, "hello" and if possible, ask him/her about their day. 
 
 
 
