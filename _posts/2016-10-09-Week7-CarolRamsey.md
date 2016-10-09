@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 6 from Carol Ramsey
+title: Week 7 from Carol Ramsey
 ---
 
 **What did you do this past week?**
