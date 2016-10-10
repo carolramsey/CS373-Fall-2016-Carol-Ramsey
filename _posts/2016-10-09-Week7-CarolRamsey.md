@@ -5,7 +5,7 @@ title: Week 7 from Carol Ramsey
 
 **What did you do this past week?**
 
-I wrote a lot of code samples and then took the test. Python is growing on me. I'm working with a Raspberry Pi for a semester project in my physics class, so I'll get to write more python code. 
+I wrote a lot of code samples and then took the test. Python is growing on me. I'm working with a Raspberry Pi for a semester project in my physics class, so I'll get to write more Python code. 
 
 **What's in your way?**
 
