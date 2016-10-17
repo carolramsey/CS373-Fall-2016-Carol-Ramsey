@@ -5,7 +5,7 @@ title: Week 8 from Carol Ramsey
 
 **What did you do this past week?**
 
-I found out how many points the blog posts are worth. Oh no, it's a sad day. I've put time into it each week, to contibute something someone might like to read. But, that is how it goes sometimes. Besides that, our team formed, our tools are setup and we started coding on Friday, getting the web page, web server, Javascript, etc. to talk to each other. 
+Our IDB team formed, our tools setup and we started coding on Friday, getting the web page, web server, Javascript, etc. to talk to each other. 
 
 **What's in your way?**
 
@@ -17,7 +17,8 @@ I'm interested in how the team of five will work. It might seem like a great dea
 
 **Tip of the Week**
 
-I co-hosted a screening of Code: Debugging the Gender Gap last week and I spoke about my career in tech during a Q&A. One piece of advice I gave to women going into tech: Don't be too helpful. I am personally drawn to lost causes, so now and then, I found myself working very hard on efforts that weren't important to the company (fixing backlog defects, putting together a training, etc.). I had to be careful to not volunteer (or get volunteered) to do more than my share of this type of work, because it can be seen as being less capable of the "real" work. So, beware of helpful tendencies and focus on the visible and recognized work. 
+I co-hosted a screening of Code: Debugging the Gender Gap last week and I spoke about my career in tech during a Q&A. One question was - Isn't more fair for everyone if gender wasn't considered at all? A tech career is open to women if they do the work and making a big deal of 'women in tech' gives the impression that they need extra help and aren't as capable. This approach doesn't consider implicit bias that impacts experiences and opportunities for women in tech. For people who believe this, I would ask that they check out the Gender/Career test at <a href = "https://implicit.harvard.edu/implicit/takeatest.html"> Harvard Implict Bias Tests</a> and then view Facebook's research-based <a href="https://managingbias.fb.com/">Implicit Bias Training</a>. I believe any person in tech would learn something from the two, even if we don't agree on it all. 
+
 
 
 
