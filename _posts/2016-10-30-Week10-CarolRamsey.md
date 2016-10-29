@@ -5,7 +5,7 @@ title: Week 10 from Carol Ramsey
 
 **What did you do this past week?**
 
-I finished reading the series of articles about design strategies and I wondered, where does the guy work and has he ever seen production code in the real world? The article's design strategies and patterns are elegant and powerful. The idea that we could all spend part of everyday refactoring makes me smile, and laugh a little.
+I finished reading the series of articles about design strategies and I wondered, where does the guy work and has he ever seen production code in the real world? The article's design strategies and patterns are elegant and powerful. The idea that we could all spend part of everyday refactoring makes me smile and smirk at the same time. 
 
 Later the same day, I'm using End Note, a bibliography research tool, and I can see the bad design from the other side of the UI. The client app handles multiple libraries, but in the web app the user must create multiple user accounts, one for each library. Then there is the manual configuration that requires values like http://ezproxy.lib.utexas.edu/login?url= and http://te7fv6dm8k.search.serialssolutions.com. The relationship between Groups and Group Sets is unique and mysterious and why should organizing folders and tags, with well established best practices and patterns, ever be unique or mysterious?
 
@@ -29,5 +29,5 @@ I am going to get a 10 on a quiz if its the last thing I do.
 
 **Tip of the Week**
 
-When using End Note, the Groups and Group Sets are separate organizing structures. 
+When using End Note, references in the library can be added to one or more Groups. Each Group is part of a Group Set. My Groups is a Group Set that is created at installation and can't be deleted.  You can create up to 500 Group Sets and save an unlimited number of references, but you can create only 2 levels of organization, the Group and Group Set. 
  
