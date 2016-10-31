@@ -33,7 +33,7 @@ I am going to get a 10 on a quiz if its the last thing I do.
 
 When using End Note, references in the library can be added to one or more Groups. Each Group is part of a Group Set. "My Groups" is a Group Set that is created at installation and can't be deleted.  You can create up to 500 Group Sets and save an unlimited number of references, but you can create only 2 levels of organization, the Group Set and the Group. 
 
-When I see something like this in a UI, I imagine the design mistake behind it. In this case, I imagine that instead of one folders DB table with each row/folder having an ID field for the parent folder (a stanard implemention used by DOS in the late 80s, right?), there are two DB tables, one for Groups and another for Group Sets. I imagine that the 2-level organization is embeded and hard-coded from the database all the way through to the UI, so when a Product Manager says, "Can we have a regular folder structure with n levels?" the tech lead says the change is too expensive. 
+When I see something like this in a UI, I imagine the design mistake behind it. In this case, I imagine that instead of one folders DB table with each row/folder having an ID field for the parent folder (a standard implemention used by DOS in the late 80s, right?), there are two DB tables, one for Groups and another for Group Sets. I imagine that the 2-level organization is embeded and hard-coded from the database all the way through to the UI, so when a Product Manager says, "Can we have a regular folder structure with n levels?" the tech lead says the change is too expensive and he is right. 
 
 Is this is helpful tip or a weird habit, to imagine the design flaws through the lens of the UI? Maybe it's some of both. 
 
