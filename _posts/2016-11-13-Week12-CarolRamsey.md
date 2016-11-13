@@ -9,11 +9,11 @@ I got a 10 on a quiz and did a happy dance in my head. I would have gotten anoth
 
 **What's in your way?**
 
-I'm feeling better about time now. I took a weekend and worked from 5am - midnight on Friday and Sunday, writing everything I could ahead of time. I wrote 3 research article critiques, 2 research article reflections and most of 4 CS blog posts. This gave me some breathing room during the week.  
+I'm feeling better about time now. I took a weekend and worked from 5am - midnight on Friday and Sunday, writing everything I could ahead of time. I wrote 5 research article critique/relections and most of 4 CS blog posts. This gave me some breathing room during the week.  
 
 **What will you do next week?** 
 
-I will finish the Refactoring book and study the code samples. I will also contribute as much as possible to the team project. One of my daughters was in the hospital this week, so my contributions were slim.
+I will finish the Refactoring book and study the code samples. I will also contribute as much as possible to the team project. One of my daughters was in the hospital for five days last week, so my contributions were slim.
 
 **Tip of the Week**
 
